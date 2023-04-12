@@ -1,0 +1,108 @@
+                              MEETING REPORT 3 
+ 
+ 
+Team Name:  Gelatin            Date of Meeting:        04.04.2023
+ 
+Start Time: 14:45   End Time: 15:30    Meeting Location:  Epoka Campus
+ 
+Moderator:     Xhensila Hoxha         Recorder:       Xhensila Hoxha
+ 
+Other Members Present:
+1.     Ksenia Muho
+2.     Klea Karaj
+3.     Era Alcani
+4.     Klea Vreto
+5.     Klaudia Voka
+6.     Elison Gramo
+7.     Xhim Valisi
+ 
+Members Absent:                 None
+ 
+ 
+Topics Discussed:
+-> The website's main logo.
+-> The website’s final view of the Index Page. (Customer view)
+-> The division of tasks for each member for the next WEEK and in OVERALL for the project.
+-> Last week research on requirements, front-end bootstraps.
+->Final Decision on the 3 user modules.
+->Discussion on the front-end sketches.
+ 
+Decisions Made:
+-> Decision 1: Website's main Logo was designed and finished.
+->Decision 2: After a general discussion on the main requirements for the project, it was decided that this task was going to be given to one of the members of the group, to be finished within the next week.
+->Decision 3: We choose some css bootstraps and css elements for the project, including here:
+Bootstrap 3; Bootstrap TouchSpin
+Oxygen Free responsive HTML5 Bootstrap template
+(This hasn't finished yet).
+->Decision 4: We decided that the website's 3 main modules are going to be:
+Admin (CRUD).
+Customer.
+Furnitor.
+-> Decision 5: After we saw the sketches, we made some improvements in the overall website's view. The "Cake My Day. Pastry Shop" website's main pages are going to be:
+1. Customer's view (index.html)
+Internal html pages and specific parts of "index.html" are:
+
+#1.1 navigation bar
+
+1.1.1 shop.html
+->customer can buy/ add to basket among different "cake" categories.
+1.1.1 a) product_detail.html
+
+1.1.2 profile.html
+->customer can view transaction's history, log out, settings
+1.1.2 a) transactions.html
+1.1.2 b)settings.html
+
+1.1.3 register/log in
+-> new customer will register; old customer must be logged in to buy from the site
+1.1.3 a)register.html
+1.1.3 b)login.html
+
+1.1.4 basket.html
+->"cakes" added to the basket
+1.1.4 a)checkout.html
+
+
+#1.2 general information on the website
+1.2.1 reviews.html
+
+#1.3 "cake" categories( each cake category is associated with a button that goes to a specific position in the shop.html page)
+
+#1.4 footer section
+1.4.1 About                       about.html
+1.4.2 FAQ                         faq.html
+1.4.3 Contact & Follow            contact.html
+1.4.4 Terms & Privacy             terms.html ; privacy.html
+
+ 
+Tasks Assigned:
+ #for the week
+Xhensila Hoxha -> The Admin's module view (sketches)
+Klea Karaj -> The Furnitor's module view(sketches)
+Era Alcani -> Work in progress for the project's Requirements
+Ksenia Muho -> General Research and Information on the types of diagrams
+Klea Vreto, Elison Gramo-> Work in progress for the customer's Front End View
+Xhim Valisi, Klaudia Voka -> General Information on the actions that can be taken from each module ( more detailed for Admin and Furnitor).
+
+#in general for the project (including documentation and back/front end code)
+Era Alcani -> Find all types of requirements, create Entity Diagrams.
+Klea Vreto, Elison Gramo -> Customer's Front End View (code)
+Klea Vreto-> Create Data Flow Diagrams
+Klaudia Voka-> Executive Summary of the Project,  Product/ Service Description, Project Planning information.
+Xhim Valisi -> Detailed description on the "Implementation technology"
+Xhensila Hoxha, Klea Karaj, Ksenia Muho ->
+Customer's Back End Code, 
+Admin & Furnitor  Front&Back End Code ; 
+Implement Payment Methods ;  
+Requirements Analysis;
+Create Behavioral Diagrams, Structural Diagrams
+
+
+
+
+ 
+Time, Place, and Agenda for Next Meeting:
+ 
+-> Agenda: Discussion on the Requirements that are going to be sent within next week. Gather information and discuss on the overall progress of each member in their tasks assigned. Discussion on the view for the other 2 modules.
+->Time and Place: Wednesday, 12.04.2023 at Epoka Campus
+ 
