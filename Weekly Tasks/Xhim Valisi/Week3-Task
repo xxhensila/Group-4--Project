@@ -1,0 +1,31 @@
+General Information on the actions that can be taken from each module for the "Pastry Shop" website.
+Customer User
+Admin User
+Pastry Supplier User
+
+1.Customer User:
+
+*Browse and search for pastries and related products
+*View detailed product information, including images, descriptions, and prices
+*Add products to the shopping cart
+*View and manage the shopping cart
+*Place an order and proceed to checkout
+*View order history and track orders
+*Manage account information, such as profile details, password.
+*Provide feedback and reviews for products
+
+2.Admin User:
+
+*Manage products, including adding, editing, and deleting products
+*Manage orders, including viewing, updating, and processing orders
+*Manage customer accounts, including adding, editing, and deleting customer accounts
+*Manage inventory and stock levels
+*Generate reports and analytics for business insights
+
+3.Pastry Supplier User:
+
+*Manage product inventory and stock levels
+*Receive and process incoming orders from the website
+*Update product availability and stock status
+*Provide product information and updates to the admin and customers
+*Manage account information, such as profile details.
