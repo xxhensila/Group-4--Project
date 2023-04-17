@@ -1,6 +1,15 @@
-Information according to the other modules that we can add.
+< Information according to the other modules that we can add. >
 
-We have implemented some modules like user profile,menu page etc .
+*Inventory management: This module will help to keep track of the bakery's inventory, including ingredients, baking supplies, and finished products. It will help to ensure that the bakery has enough supplies to meet customer demand and avoid wastage.
 
- We are also thinking of implementing 2 other modules besides the regular user, but we can add more than 2 later. (Initial Idea)
-#Admin module
+*Sales management: This module will allow the bakery to keep track of its sales, including the number of items sold, the revenue generated, and the customer data. It will help to analyze sales data and identify popular products, as well as customer trends.
+
+*Recipe management: This module will help to manage the bakery's recipes, including ingredient quantities, preparation instructions, and baking times. It will help to ensure that the bakery's products are consistent and high-quality.
+
+*Staff management: This module will allow the bakery to manage its staff, including scheduling, payroll, and performance evaluation. It will help to ensure that the bakery has enough staff to meet demand and that staff are working efficiently.
+
+*Financial management: This module will help the bakery to manage its finances, including budgeting, forecasting, and accounting. It will help to ensure that the bakery is profitable and financially stable.
+
+*Customer management: This module will allow the bakery to manage its customer relationships, including customer data, feedback, and loyalty programs. It will help to build a loyal customer base and increase customer satisfaction.
+
+Overall, implementing these modules in a bakery management system can help to improve the efficiency and profitability of the bakery.
