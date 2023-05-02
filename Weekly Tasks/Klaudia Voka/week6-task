@@ -9,3 +9,13 @@ In terms of development, we have focused on both the front end and back end. The
 Our team has also focused on ensuring the security of user data by implementing various security measures such as encryption, firewalls, and access controls.
 
 Overall, our project aims to provide a seamless and user-friendly platform for customers to search and book local tour packages, ensuring an enjoyable travel experience. We believe that our efforts in design and development will result in a successful and reliable platform for users.
+
+Purpose and scope of this specification :
+
+The purpose of this specification is to provide a detailed description of the requirements, design, and development of a web-based platform for booking local tour packages. The specification serves as a guide for the development team, outlining the features and functionalities of the system and the technical specifications required for its successful implementation.
+
+The scope of this specification covers all aspects of the project, including the front end and back end development, user interface design, security measures, and database design. The specification also includes the system's requirements, including functional and non-functional requirements, and outlines the different diagrams and models used in the design and development of the platform.
+
+The specification is intended for use by the development team, project managers, and stakeholders to ensure that the project is delivered within the defined scope, on time, and within budget. The document is also a reference for testing and quality assurance teams to ensure that the system meets the defined requirements and specifications.
+
+Overall, the purpose and scope of this specification are to provide a clear and concise description of the project's goals, objectives, and technical requirements, ensuring a successful and efficient development process.
