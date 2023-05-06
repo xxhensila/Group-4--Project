@@ -1,9 +1,0 @@
-Description about the technology implemented in our project.
-
-Our pastry shop website has been implemented using a combination of technologies that work together seamlessly to deliver an outstanding user experience. In the front-end, we have utilized HTML and CSS Bootstrap to create a visually appealing and responsive website that is optimized for all devices. Bootstrap allowed us to create a modern and intuitive design that is easy to navigate and user-friendly.
-
-In the back-end, we have used PHP, a popular server-side scripting language, to build dynamic web pages and handle server-side processing. We have also utilized MySQL, a powerful and scalable relational database management system, to store and manage our website's data. PHP and MySQL work together seamlessly to provide efficient data processing and management, allowing us to provide our customers with fast and reliable access to our products and services.
-
-To ensure optimal website performance and security, we have employed various best practices such as caching, compression, and SSL encryption. 
-
-Overall, our pastry shop website has been implemented using a powerful and reliable technology stack that provides exceptional performance, security, and scalability. By utilizing HTML and CSS Bootstrap in the front-end and PHP linked to MySQL in the back-end, we have created a website that is both visually appealing and highly functional, delivering a superior user experience to our customers.
