@@ -1,0 +1,69 @@
+                                       MEETING REPORT 7
+ 
+ 
+Team Name:  Gelatin            Date of Meeting:        03.05.2023
+ 
+Start Time: 10:20   End Time: 11:00   Meeting Location:  Epoka Campus
+ 
+Moderator:     Xhensila Hoxha         Recorder:       Xhensila Hoxha
+ 
+Other Members Present:
+1.     Ksenia Muho
+2.     Klea Karaj
+3.     Era Alcani
+4.     Klea Vreto
+5.     Klaudia Voka
+6.     Elison Gramo
+ 
+Members Absent:                Xhim Valisi
+ 
+ 
+Topics Discussed:
+-> We discussed in detail about the state diagrams which we are going to deliver in this week.
+-> We discussed about the “Description of the technology implemented” and “Executive summary” of our project, which were tasks assigned for the last week.
+-> We discussed about the “Product-Service Description”, a continuation on the requirements documentation.
+-> We discussed in general about the sequence diagrams, and collaboration diagrams. 
+-> We discussed about the front-end code, accordingly for the website and the administrator (which was finished). 
+-> We discussed about the requirement analysis that we are going to deliver as task within this week.
+-> We discussed about posting another draft of requirements since we made some changes.
+
+Decisions Made:
+->Decision 1: Since the front-end code is concluded, we can code in the back-end at a faster pace so that it can be completed within week7-8. 
+->Decision 2: We decided to deliver the state diagrams completely.
+->Decision 3: We decided to deliver the requirements analysis completely, also deliver a new draft of requirements.
+->Decision 4: We decided to work further and conclude most of the chapter 2 of our documentation.
+
+Tasks Assigned:
+
+Xhim Valisi -> DESIGN activity diagrams:
+1.customer views their transaction history
+DESIGN state diagrams:
+1.customer
+2.administrator
+3.supplier
+
+Klaudia Voka -> DESIGN activity diagrams:
+1.customer adds item to card,
+2.customer edits their details
+DESIGN state diagrams:
+1.product
+2.categories
+Deliver a “Product-Service Description” for the documentation part.
+
+Klea Vreto -> DESIGN activity diagrams:
+1.customer deletes items from their card
+DESIGN state diagrams:
+1.make an order
+
+Elison Gramo -> DESIGN activity diagrams:
+1.customer updates quantity of products in their card
+DESIGN state diagrams:
+1.feedback
+
+Klea Karaj, Ksenia Muho, Xhensila Hoxha -> Requirements analysis, back-end code
+
+Era Alcani-> Requirements Analysis
+
+Time, Place, and Agenda for Next Meeting:
+->Agenda: Discuss about the progress of the state diagrams from each member respectively. Discuss about the delivery of the sequence and collaboration diagrams, which is the most important task for week 8. Discuss about the back-end code progress.
+->Time and Place: Wednesday 10.05.2023 at Epoka Campus
