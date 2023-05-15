@@ -1,0 +1,70 @@
+                        MEETING REPORT 8
+ 
+ 
+Team Name:  Gelatin            Date of Meeting:        10.05.2023
+ 
+Start Time: 18:00   End Time: 18:30   Meeting Location:  Google Meet
+ 
+Moderator:     Xhensila Hoxha         Recorder:       Xhensila Hoxha
+ 
+Other Members Present:
+1.     Ksenia Muho
+2.     Klea Karaj
+3.     Era Alcani
+4.     Klea Vreto
+5.     Klaudia Voka
+6.     Elison Gramo
+ 
+Members Absent:                Xhim Valisi
+ 
+ 
+Topics Discussed:
+-> We discussed in detail about the other diagrams which we are going to deliver in this week. 
+-> We discussed again about overall structure of the documentation and the chapters that are yet to be finished: chapter 2, 4, 5 and 6.
+-> We also discussed about the non-functional requirements again, and we decided on delivering a new draft focused on them.
+-> We discussed about the work done and not done specifically by each member of the group.
+
+Note: Xhim Valisi didn’t complete their task, which consisted on designing the activity diagrams (customer views their transaction history) and state diagrams (customer, administrator, supplier). Klaudia Voka didn’t complete one part of their task, which consisted on designing the state diagrams (product, categories). For this reason, we had to reorganize the work with the other participants of the group. 
+Era Alcani was assigned to design a state diagram for the categories, 
+Klea Karaj was assigned to design a state diagram for the supplier,
+Ksenia Muho was assigned to design a state diagram for the administrator,
+Xhensila Hoxha was assigned to design a state diagram for the customer.
+The priority for week 7 were the state diagrams, that is why the activity diagrams were to be assigned later.
+
+Decisions Made:
+->Decision 1: Back-end code must be completed within the week.
+->Decision 2: Chapter 2 must be completed within the week.
+->Decision 3: The sequence diagrams must be delivered within the week.
+->Decision 4: The new draft of the requirements chapter should be submitted within the week and the focus is on the non-functional diagrams and their originality.
+->Decision 5: The design of the collaboration diagrams must start on week 8 and finish soon.
+
+Tasks Assigned:
+Klaudia Voka
+1) Finish Chapter 2
+
+Xhim Valisi
+Design Sequence Diagrams
+1. Update the "category"
+2. Update the "product"
+
+Klea Vreto
+2) Design Sequence Diagrams
+1. Create a new "category"
+
+Elison Gramo
+2) Design Sequence Diagrams
+1. Create a new "product"
+
+Xhensila Hoxha
+Design Sequence Diagrams
+1. Create a new "admin account"
+
+Klea Karaj, Ksenia Muho
+Design Collaboration Diagrams
+
+Era Alcani
+Post a new draft of requirements based on latest changes
+
+Time, Place, and Agenda for Next Meeting:
+->Agenda: Discuss about the progress of the sequence diagrams from each member respectively. Discuss about the delivery of the second chapter of our documentation. Discuss about the back-end code last changes.
+->Time and Place: Wednesday 17.05.2023, Google Meet
