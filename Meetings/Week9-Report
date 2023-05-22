@@ -1,0 +1,64 @@
+                        MEETING REPORT 9
+ 
+Team Name:  Gelatin            Date of Meeting:        18 .05.2023 (changed)
+ 
+Start Time: 18:00   End Time: 18:30   Meeting Location:  Google Meet
+ 
+Moderator:     Xhensila Hoxha         Recorder:       Xhensila Hoxha
+ 
+Other Members Present:
+1.     Ksenia Muho
+2.     Klea Karaj
+3.     Era Alcani
+4.     Klea Vreto
+5.     Klaudia Voka
+6.     Elison Gramo
+ 
+Members Absent:                Xhim Valisi
+ 
+ 
+Topics Discussed:
+-> We discussed about the tasks that were done and were not, specifically by each member of the group.
+-> We discussed about the other diagrams which we are going to deliver in the next week: Data Flow, Collaboration, Entity and Structural. 
+-> We reassigned the last activity diagram that was a left on task from last week.
+-> We discussed about the overall progress of the project in the code and documentation part. 
+
+Note: Xhim Valisi didn’t complete their task, which consisted on designing the sequence diagrams (update the category) and (update the product). For this reason, we had to reorganize the work with the other participants of the group. 
+Klea Karaj was assigned to design the sequence diagram: update product.
+Ksenia Muho was assigned to design the sequence diagram: update category.
+
+Decisions Made:
+->Decision 1: All the tasks should be focused on the design of the diagrams for this week.
+->Decision 2: The leader is going to send a draft of the documentation, where all the tasks assigned till this week are being included.
+->Decision 3: The last type of the behavioral diagrams: collaboration diagrams must be delivered within the week.
+->Decision 4: The Database Schema Design and the diagram related to that, must be delivered within the week.
+->Decision 5: The Data Flow Diagrams are to be send within the week.
+->Decision 6: Some types of the structural diagrams are also going to be send within the week 9.
+
+Tasks Assigned:
+Era Alcani
+Database Schema Design (1)
+Design Entity Relation Diagram (1)
+
+Klea Karaj, Ksenia Muho
+Design Collaboration Diagrams (2)
+
+Xhensila Hoxha
+Design Data Flow Diagram ->Customer (1)
+
+Klea Vreto
+Design Data Flow Diagram ->Administrator (1)
+
+Elison Gramo
+Design Data Flow Diagram ->Supplier (1)
+
+Xhim Valisi
+Design Complete Object Diagram (1)
+Design Activity Diagram -> customer views their transaction history (reassigned task)
+
+Klaudia Voka
+Design Component Diagram (1)
+
+Time, Place, and Agenda for Next Meeting:
+->Agenda: Discuss about the progress on the design part of the diagrams. Discuss about the last diagrams that are part of the chapter 4. Discuss about the overall progress.
+->Time and Place: Tuesday 23.05.2023, Google Meet
