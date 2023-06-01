@@ -1,0 +1,69 @@
+                            MEETING REPORT 10
+ 
+Team Name:  Gelatin            Date of Meeting:        24 .05.2023 (changed)
+ 
+Start Time: 18:00   End Time: 18:30   Meeting Location:  Google Meet
+ 
+Moderator:     Xhensila Hoxha         Recorder:       Xhensila Hoxha
+ 
+Other Members Present:
+1.     Ksenia Muho
+2.     Klea Karaj
+3.     Era Alcani
+4.     Klea Vreto
+5.     Klaudia Voka
+6.     Elison Gramo
+7.     Xhim Valisi
+ 
+
+Topics Discussed:
+-> We discussed about the database schema and entity relation diagram construction that was done.
+-> We discussed about the collaboration diagrams and the logical connection that was done considering the sequence diagrams.
+-> We had a look on the data flow diagrams, too.
+-> We assigned new activity diagrams due to some improvements we made in the code part.
+-> We reassigned an activity diagram that was a left on task, and the tasks according the design of the component diagram and complete object diagram.
+-> We posted the code and discussed about the overall progress in the documentation part. 
+
+Note: Xhim Valisi didn’t complete their task, which consisted on designing the complete object diagram, and activity diagram (customer views their transaction history). Also, Klaudia Voka didn’t complete their task, which consisted on designing the component diagram. For the abovementioned left work, we will reassign it to other participants of the group within the new week’s tasks.
+
+Decisions Made:
+->Decision 1: From this meeting till the presentation day, the focus is only on the documentation part.
+->Decision 2: Since there were many tasks that were to be redone, the leader postponed the post of the documentation draft for this week.
+->Decision 3: Almost all the diagrams should be delivered in this week, considering the deployment diagram, class diagrams, object and components diagrams.
+->Decision 4: The implementation technology print views must be delivered within the week.
+->Decision 5: Some types of diagrams have to be reviewed because of some new changes in the code.
+
+Tasks Assigned:
+Era Alcani
+Activity Diagrams
+1-Admin contacts suppliers
+2-Admin deletes suppliers
+
+Elison Gramo
+Activity Diagrams
+1-Supplier contacts administrator
+2-Admin creates suppliers' accounts
+
+Klea Karaj
+Deployment Diagram
+Class Diagram 2->Relation between classes
+
+Ksenia Muho
+Class Diagram 1->Attributes and methods list for each class
+
+Xhensila Hoxha
+Class Diagram 3->Complete class diagram
+Activity Diagram-> Customer views their transaction history
+
+Klaudia Voka
+Complete Object Diagram
+
+Klea Vreto
+Component Diagram
+
+Xhim Valisi
+Implementation Technology Views
+
+Time, Place, and Agenda for Next Meeting:
+->Agenda: Discuss about the overall progress of our team work and the last changes that are to be done within the next week in the documentation part. Decide on the last tasks for each member.
+->Time and Place: Wednesday 31.05.2023, Epoka Campus
